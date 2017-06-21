@@ -1,0 +1,16 @@
+PODS:
+  - iOSPodNT (0.1.0)
+
+DEPENDENCIES:
+  - iOSPodNT (from `../`)
+
+EXTERNAL SOURCES:
+  iOSPodNT:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSPodNT: 15be37a1f9e381f7b4ea5414929ff621e75d914f
+
+PODFILE CHECKSUM: e5bb52b5a2b6301fe62a367bbb56effa39dbe997
+
+COCOAPODS: 1.2.1

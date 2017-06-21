@@ -1,0 +1,6 @@
+framework module iOSPodNT {
+  umbrella header "iOSPodNT-umbrella.h"
+
+  export *
+  module * { export * }
+}

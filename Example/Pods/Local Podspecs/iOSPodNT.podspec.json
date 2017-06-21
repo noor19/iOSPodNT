@@ -1,0 +1,22 @@
+{
+  "name": "iOSPodNT",
+  "version": "0.1.0",
+  "summary": "A short description of iOSPodNT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nik toor/iOSPodNT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nik toor": "nikal.toor@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nik toor/iOSPodNT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSPodNT/Classes/**/*"
+}
